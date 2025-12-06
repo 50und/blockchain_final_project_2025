@@ -1,0 +1,11 @@
+# Large data files
+ETHUSDT-aggTrades-2025-10.csv
+eth_usdt_dex_oct2025_mainnet.parquet
+
+# OS files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
